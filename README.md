@@ -1,2 +1,2 @@
-# nomadcoin
+# Nomadcoin
 coin
